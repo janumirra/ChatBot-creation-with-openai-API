@@ -10,5 +10,5 @@ pip install openai
 pip install streamlit
 
 # Demo video link
-[Link to Demo Video]([https://link-url-here.org](https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)
+[Link to Demo Video](https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)
 
