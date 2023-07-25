@@ -8,3 +8,6 @@ This repo has steps to be followed while creating a chatbot using openai API and
 # Requirements
 pip install openai
 pip install streamlit
+
+#[Link to Demo Video]([https://link-url-here.org](https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)https://drive.google.com/file/d/1pPsMZwueG8VOvDTcPh7Lb9IC5BzhxIwS/view?usp=drive_link)
+
